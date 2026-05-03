@@ -23,16 +23,6 @@ The goal is to identify relationships between stress, anxiety, depression, lifes
 
 ---
 
-## 📂 Project Structure
-Student-Burnout-Analysis/
-│── README.md
-│── student_burnout_analysis.pbix
-│── students.sql
-│── dataset.csv
-
-
----
-
 ## 🗄️ SQL Analysis
 
 ### Database Setup
